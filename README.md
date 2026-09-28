@@ -1,11 +1,6 @@
 <!-- HEADER -->
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Hola%2C+soy+Brhayan+Yáñez+👋;Analista+Programador+%7C+Backend+%26+Data;Python+%7C+FastAPI+%7C+SQL+%7C+APIs;Construyendo+sistemas+que+resuelven+problemas+reales" alt="Typing SVG" />
-
-<br>
-
 <p>
   <strong>Analista Programador</strong> enfocado en desarrollo backend, datos y diseño de sistemas.
   <br>
@@ -203,12 +198,6 @@ Actualmente profundizando en:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Brhayxn&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brhayxn&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-
-</div>
-
 <br>
 
 <div align="center">
@@ -225,6 +214,5 @@ Actualmente profundizando en:
 
 <br>
 
-<sub>Diseñado y construido por <strong>Brhayan Yáñez</strong>.</sub>
 
 </div>
