@@ -1,42 +1,29 @@
 <div align="center">
 
-# Tu Nombre
+# 👋 Hola, soy Brhayan
 
-**Analista Programador & Backend Developer**  
-*Enfocado en diseño de APIs REST, arquitectura de bases de datos y automatización.*
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vcenter=true&width=550&lines=Analista+Programador+%26+Backend+Dev;Dise%C3%B1o+de+APIs+REST+%26+Arquitectura+de+Datos;Desarrollo+con+Python%2C+FastAPI+y+Node.js;Enfocado+en+automatizaci%C3%B3n+y+rendimiento" alt="Typing SVG" />
+</a>
 
-[LinkedIn](https://linkedin.com/in/tu-perfil) · [Portafolio](https://tu-dominio.dev) · [Email](mailto:tu-correo@dominio.com)
-
-<br/>
-
-[![Tech Stack](https://skillicons.dev/icons?i=python,fastapi,nodejs,express,postgres,mysql,linux,docker&theme=dark)](https://skillicons.dev)
+<p align="center">
+  <a href="https://linkedin.com/in/tu-perfil"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:tu-correo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/Brhayxn"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
 </div>
 
 ---
 
-### 🛠️ Enfoque Técnico
+### 💻 System Specs & Profile
 
-- **Backend & APIs:** Modelado de arquitecturas modulares, diseño de endpoints REST con validación estricta y microservicios ligeros.
-- **Bases de Datos:** Optimización de consultas, diseño relacional y migraciones controladas en PostgreSQL y MySQL.
-- **Entorno & Despliegue:** Flujos de trabajo sobre entornos Linux, contenedorización básica y automatización de procesos locales.
-
----
-
-### 🚀 Proyectos Seleccionados
-
-#### [Sistema de Gestión & Triaje Clínico](https://github.com/tu-usuario/repo-1)
-> Aplicación web integral para gestión de flujo de pacientes y priorización de atención médica en tiempo real.
-- **Stack:** Node.js, Express, React, PostgreSQL.
-- **Destacado:** Implementación de arquitectura cliente-servidor para operación continua en red local hospitalaria.
-
-#### [Motor de Reconocimiento & Automatización](https://github.com/tu-usuario/repo-2)
-> Pipeline de procesamiento automatizado para captura y análisis estructurado de datos.
-- **Stack:** Python, FastAPI, OpenCV.
-- **Destacado:** Ingesta de fuentes externas y procesamiento en segundo plano con persistencia relacional.
-
----
-
-<div align="center">
-  <sub>Construido con enfoque en simplicidad y rendimiento.</sub>
-</div>
+```json
+{
+  "developer": "Brhayan Alexander Yañez",
+  "role": "Systems Analyst & Software Developer",
+  "focus": ["Backend Engineering", "REST APIs", "Data Systems", "Automation"],
+  "core_stack": ["Python", "FastAPI", "Node.js", "Express", "PostgreSQL"],
+  "environment": "Linux Mint / WSL",
+  "status": "Building scalable software & exploring intelligent systems"
+}
