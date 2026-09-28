@@ -12,11 +12,8 @@
 </p>
 
 <p>
-  <a href="https://linkedin.com/in/TU_LINKEDIN">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/brhayan-ya%C3%B1ez/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:tu-correo@ejemplo.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
