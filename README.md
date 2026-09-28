@@ -12,7 +12,7 @@
 </p>
 
 <p>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/brhayan-ya%C3%B1ez/">
+  <a href="https://www.linkedin.com/in/brhayan-ya%C3%B1ez/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
