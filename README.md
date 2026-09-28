@@ -1,98 +1,230 @@
-<!-- HEADER CON EFECTO DE ESCRITURA DINÁMICA -->
+<!-- HEADER -->
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Brhayan+Yáñez+👋;Analista+Programador+%7C+Backend+%26+Data;Desarrollador+Python%2C+FastAPI+y+Node.js;Explorando+IA+Local+y+Computer+Vision" alt="Typing SVG" />
 
-  <p align="center">
-    <strong>Analista Programador</strong> enfocado en desarrollo backend, arquitectura de bases de datos, visión artificial y automatización de procesos.
-  </p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Hola%2C+soy+Brhayan+Yáñez+👋;Analista+Programador+%7C+Backend+%26+Data;Python+%7C+FastAPI+%7C+SQL+%7C+APIs;Construyendo+sistemas+que+resuelven+problemas+reales" alt="Typing SVG" />
 
-  <p align="center">
-    Chile
-  </p>
+<br>
 
-  <!-- REDES Y CONTACTO -->
-  <p align="center">
-    <a href="https://linkedin.com/in/TU_LINKEDIN" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:tu-correo@ejemplo.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
+<p>
+  <strong>Analista Programador</strong> enfocado en desarrollo backend, datos y diseño de sistemas.
+  <br>
+  Interesado en arquitectura de software, automatización, analítica e inteligencia artificial aplicada.
+</p>
+
+<p>
+  🇨🇱 Chile
+</p>
+
+<p>
+  <a href="https://linkedin.com/in/TU_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:tu-correo@ejemplo.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
 </div>
 
 ---
 
-### 👨‍💻 Sobre Mí
+## 👨‍💻 Sobre mí
 
-- 🎓 **Técnico de Nivel Superior en Análisis de Sistemas y Programación** (CFT San Agustín).
-- ⚙️ Especializado en diseño de **APIs REST robustas**, modelado relacional en **PostgreSQL / MySQL** y automatizaciones con **Python**.
-- 🧠 Entusiasta de la **Inteligencia Artificial local** (ejecución y pruebas con Ollama, llama.cpp y modelos cuantizados como Qwen y Gemma).
-- 📊 Certificado en **Google Advanced Data Analytics** y **SQL for Data Science** (UC Davis).
-- 🐧 Entorno diario de desarrollo: **Linux Mint** y terminal Bash.
+Soy **Técnico de Nivel Superior en Análisis y Programación de Sistemas**, con interés en construir soluciones que conecten **software, datos y necesidades reales de negocio**.
 
----
+Mi enfoque actual está principalmente en:
 
-### 🛠️ Stack Tecnológico
+* 🔹 Desarrollo de **APIs REST y servicios backend**.
+* 🔹 Diseño y modelado de **bases de datos relacionales**.
+* 🔹 Procesamiento, transformación y análisis de **datos**.
+* 🔹 Arquitectura de software y diseño orientado a la **evolución del sistema**.
+* 🔹 Automatización de procesos mediante **Python**.
+* 🔹 Experimentación con **IA local y modelos open-source**.
 
-#### Lenguajes y Backend
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
-</p>
-
-#### Bases de Datos y Datos
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
-</p>
-
-#### Frontend y Móvil
-<p align="left">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter" />
-</p>
-
-#### Infraestructura, SO y Herramientas
-<p align="left">
-  <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=flat-square&logo=linuxmint&logoColor=white" alt="Linux Mint" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
-</p>
+También tengo experiencia desarrollando sistemas utilizados en contextos reales, desde gestión de ventas e inventario hasta herramientas para procesos operacionales y análisis de información.
 
 ---
 
-### 🚀 Proyectos Destacados
+## 🧰 Tecnologías
 
-| Proyecto | Descripción | Stack Principal |
-| :--- | :--- | :--- |
-| **Sistema de Triage y Gestión de Filas** | Solución para clasificación de pacientes y monitoreo de colas en el CESFAM Ignacio Carrera Pinto. | `Node.js`, `Express`, `React`, `PostgreSQL` |
-| **Yerbas Buenas Te Escucha** | Plataforma de analítica territorial y retroalimentación ciudadana con visualización geoespacial y clasificación de opiniones. | `FastAPI`, `React`, `Leaflet`, `PostgreSQL` |
-| **Parking Worker (ALPR)** | Módulo de visión artificial para reconocimiento y lectura automática de patentes vehiculares en tiempo real. | `Python`, `OpenCV`, `YOLO`, `EasyOCR` |
-| **Sistema POS y Gestión de Ventas** | Plataforma para administración de inventario, punto de venta e integración de reportes automatizados. | `PHP`, `CodeIgniter`, `MySQL`, `Python` |
+### Backend
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+</p>
+
+### Datos
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+</p>
+
+### Cloud & Data Engineering
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=amazons3&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_Glue-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon_Athena-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+</p>
+
+### IA & Computer Vision
+
+<p>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLO-111111?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/llama.cpp-000000?style=flat-square&logoColor=white" />
+</p>
+
+### Herramientas
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+</p>
 
 ---
 
-### 📈 Estadísticas de GitHub
+## 🚀 Proyectos destacados
+
+### 🏥 Sistema de Triage y Gestión de Filas
+
+Sistema desarrollado durante práctica profesional para apoyar la gestión de atención en un CESFAM.
+
+**Incluye:**
+
+* Clasificación de pacientes mediante niveles de prioridad.
+* Gestión y monitoreo de filas.
+* Dashboard para visualización de pacientes.
+* Comunicación entre módulos mediante API.
+
+`Node.js` · `Express` · `React` · `SQLite` · `LAN`
+
+---
+
+### 📦 Sistema POS y Gestión de Inventario
+
+Sistema utilizado en negocios reales para gestionar ventas, inventario y reportes.
+
+**Incluye:**
+
+* Gestión de productos e inventario.
+* Punto de venta.
+* Integración con impresora térmica.
+* Reportes operacionales.
+* Automatización de tareas repetitivas.
+
+`PHP` · `CodeIgniter` · `MySQL` · `Python` · `AJAX`
+
+---
+
+### 📊 Open Library Data Pipeline
+
+Pipeline orientado a la extracción, transformación y consulta de datos bibliográficos utilizando servicios AWS.
+
+**Flujo:**
+
+`Fuente → S3 → Glue → PySpark → Athena → BI`
+
+Tecnologías utilizadas:
+
+`Python` · `AWS S3` · `AWS Glue` · `PySpark` · `Athena` · `QuickSight`
+
+---
+
+### 🚗 Parking Worker
+
+Proyecto experimental de visión artificial orientado al reconocimiento automático de vehículos y patentes.
+
+**Pipeline:**
+
+`Cámara → Detección → OCR → Procesamiento → Registro`
+
+`Python` · `OpenCV` · `YOLO` · `EasyOCR`
+
+---
+
+## 🧠 Actualmente explorando
+
+```text
+Arquitectura de Software
+        ↓
+Backend & APIs
+        ↓
+Datos & Data Engineering
+        ↓
+Cloud
+        ↓
+IA aplicada
+```
+
+Actualmente profundizando en:
+
+* Arquitectura Hexagonal
+* Diseño orientado al dominio
+* C# / .NET
+* FastAPI
+* PostgreSQL
+* Data Engineering en AWS
+* IA local y modelos cuantizados
+* Automatización de procesos
+
+---
+
+## 🎓 Formación & Certificaciones
+
+* **Técnico de Nivel Superior en Análisis y Programación de Sistemas**
+
+  * CFT San Agustín
+
+* **Google Advanced Data Analytics Professional Certificate**
+
+* **SQL for Data Science**
+
+  * University of California, Davis
+
+---
+
+## 📊 GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Brhayxn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_GITHUB&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Brhayxn&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brhayxn&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_GITHUB&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Brhayxn&theme=tokyonight&hide_border=true" />
+
 </div>
 
 ---
 
 <div align="center">
-  <sub>Construido con ideas de <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">awesome-github-profile-readme</a></sub>
+
+### Construyendo software, explorando datos y entendiendo cómo evolucionan los sistemas.
+
+<br>
+
+<sub>Diseñado y construido por <strong>Brhayan Yáñez</strong>.</sub>
+
 </div>
